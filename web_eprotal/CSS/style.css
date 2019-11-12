@@ -1,0 +1,31 @@
+.header_top {
+    background-color: #4285F4 !important;
+    border:  none !important;
+    border-radius:  0px !important;
+
+}
+.header_top .collapse .navbar-nav  li a {
+    color: #ffff;
+    transition : background 1s
+}
+
+
+.header_top .collapse .navbar-nav  li a:hover {
+    color: #ffff;
+    background: rgb(162, 190, 235) ;
+    border-radius: 2px;
+    
+}
+
+footer {
+    background-color: #4285F4;
+    height: 50px;
+    
+    line-height: 50px;
+}
+
+
+#content {
+    min-height: 500px;
+    background-color: #4285F4;
+}
