@@ -40,6 +40,27 @@ body {
     margin: 0px !important;
 }
 
+/* hien dinh */
+.myclass-title{
+    color: gray;
+    margin-bottom: 50px;
+}
+.container a{
+    color: gray !important;
+}
+.container a:hover{
+    text-decoration: none !important;
+    color: black !important;
+}
+
+
+.jumbotron{
+    background: #4285F4 !important;
+    margin-top: 10px;
+    margin-bottom: 0px !important;
+}
+
+/*====================== */
 #content {
     min-height: calc(100vh - 56px - 20px - 50px );
     background-color: #679efb;
